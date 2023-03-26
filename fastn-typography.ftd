@@ -6,7 +6,7 @@
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace inter-font
 ;; with font package name you have given inside this package 
-;; `<user_name>.github.io/<repo_name>/FASTN.ftd file
+;; `fastn-community.github.io/pragati-narrow-typography/FASTN.ftd file
 
 
 
@@ -14,7 +14,7 @@
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>` Package
+site-name: `pragati-narrow-typography` Package
 
 -- ds.page.footer:
 
@@ -22,10 +22,10 @@ site-name: `<repo_name>` Package
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name> package
-name: <user_name>.github.io/<repo_name>
+-- pd.package: pragati-narrow-typography package
+name: fastn-community.github.io/pragati-narrow-typography
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of pragati-narrow-typography.
 
 
 -- display-type:
