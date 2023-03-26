@@ -6,7 +6,7 @@
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>` Package
+site-name: `pragati-narrow-typography`
 
 -- ds.page.footer:
 
@@ -14,55 +14,55 @@ site-name: `<repo_name>` Package
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name> package
-name: <user_name>.github.io/<repo_name>
+-- pd.package: pragati-narrow-typography
+name: fastn-community.github.io/pragati-narrow-typography
 
-This FTD font `<repo_name>` can be used for your ftd web projects. 
+This FTD font `pragati-narrow-typography` can be used for your ftd web projects. 
 
-You can use this <repo_name> inside the `FTD` project. Follow below instructions
+You can use this pragati-narrow-typography inside the `FTD` project. Follow below instructions
 to use this font package.
 
--- ds.h3: How to use <repo_name>?
+-- ds.h3: How to use pragati-narrow-typography?
 
 -- ds.code: Add this to your FASTN.ftd
 lang: ftd
 
-\-- fastn.dependency: <user_name>.github.io/<repo_name>
+\-- fastn.dependency: fastn-community.github.io/pragati-narrow-typography
 
 -- ds.markdown: 
 
-To use this <repo_name> inside your `ftd` web project, if you are
+To use this pragati-narrow-typography inside your `ftd` web project, if you are
 using our [doc-site](https://github.com/fifthtry/doc-site) theme then you just
 have to pass types to `ds.page`
 
 Let's say you are using `doc-site` inside your project then, it's as simple as
 making a sandwich.
 
--- ds.h3: How to use <repo_name> with `ds.page`?
+-- ds.h3: How to use pragati-narrow-typography with `ds.page`?
 
-Just import <repo_name> inside your ftd file as shown below:
+Just import pragati-narrow-typography inside your ftd file as shown below:
 
 -- ds.code:
 lang: ftd
 
-\-- import: <user_name>.github.io/<repo_name>
+\-- import: fastn-community.github.io/pragati-narrow-typography
 
 
 -- ds.markdown: 
 
-and pass <repo_name> types to `ds.page` as shown below:
+and pass pragati-narrow-typography types to `ds.page` as shown below:
 
 -- ds.code:
 lang: ftd
 
 \-- ds.page:
-types: $<repo_name>.types
+types: $pragati-narrow-typography.types
 
 -- ds.markdown: 
 
-Once you add `types: <repo_name>.types` inside your ftd file, <repo_name> will
-be added as fastn default typography to your `ds.page` and to all components you
-add inside `ds.page`.
+Once you add `types: pragati-narrow-typography.types` inside your ftd file,
+pragati-narrow-typography will be added as fastn default typography to your
+`ds.page` and to all components you add inside `ds.page`.
 
 Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
 
