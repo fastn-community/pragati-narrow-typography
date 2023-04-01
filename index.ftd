@@ -211,7 +211,7 @@ e.g. `http://127.0.0.1:8001/types` You will see the `page` component using
 Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
 
 [Click here](fastn-typography/) to know more `fastn` predefined `inherited`
-types using `karma-font` font-family and font-sizes.
+types using `pragati-narrow-font` font-family and font-sizes.
 
 -- end: ds.page
 
